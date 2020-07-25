@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alpago\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alpago\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_kekTown.269042750.01" t="ExcludeRecursive" />
+    <e p="C:\Users\Alpago\Desktop\MyProjeccts\Kektown" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Kektown" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CubeEntity.cs" t="Include" />
+            <e p="Entity.cs" t="Include" />
+            <e p="PlayerCommandBehaviour.cs" t="Include" />
+            <e p="SimpleCameraController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Tutorial_Info" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="kekTown.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
